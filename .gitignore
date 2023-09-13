@@ -16,5 +16,7 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-# VSC Code
+# VS Code
 .DS_Store
+
+change_author.sh
